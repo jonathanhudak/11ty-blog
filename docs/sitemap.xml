@@ -52,7 +52,7 @@
   </url>
   
   <url>
-    <loc>https://example.com/11ty-blog/tags/number-2/</loc>
+    <loc>https://example.com/11ty-blog/tags/posts-with-two-tags/</loc>
     <lastmod>2022-08-25</lastmod>
   </url>
   
@@ -62,7 +62,7 @@
   </url>
   
   <url>
-    <loc>https://example.com/11ty-blog/tags/posts-with-two-tags/</loc>
+    <loc>https://example.com/11ty-blog/tags/number-2/</loc>
     <lastmod>2022-08-25</lastmod>
   </url>
 </urlset>
