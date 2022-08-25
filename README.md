@@ -81,3 +81,8 @@ DEBUG=* npx @11ty/eleventy
   - `_includes/layouts/post.njk`: the blog post template (wrapped into `base.njk`)
 - `_includes/postlist.njk` is a Nunjucks include and is a reusable component used to display a list of all the posts. `index.njk` has an example of how to use it.
 
+
+## Github Hosting
+
+* https://www.linkedin.com/pulse/eleventy-github-pages-lea-tortay/
+* https://github.com/marketplace/actions/github-pages-action#%EF%B8%8F-static-site-generators-with-nodejs
